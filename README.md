@@ -1,2 +1,3 @@
 # New
-This is my first get repository 
+This is my first Git repository 
+Author - Tiyasa Kundu
